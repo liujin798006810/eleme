@@ -5,4 +5,4 @@
 ### vue-router
 ### vue-resource
 
-[项目预览](https://liujin798006810.github.io/blog) 
+#[项目预览](http://vuejssellapp.t.imooc.io/#!/) 
